@@ -1,2 +1,2 @@
 # BaiTapLab
-Công nghệ sử dụng: Visual Studio Code
+Công nghệ sử dụng: Visual Studio Code, XAMPP
