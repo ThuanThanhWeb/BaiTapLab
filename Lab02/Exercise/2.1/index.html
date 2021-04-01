@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            position: relative;
+        }
+        .form{
+            position: absolute;
+            left: 40%;
+            right: 40%;
+        }
+    </style>
+</head>
+<body>
+    <div class="form">
+    <form action="save.php" method="post">
+        <table>
+            <tr>
+                <td>
+                    Username:
+                </td>
+                <td>
+                    <input type="text" name="name"><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Class:
+                </td>
+                <td>
+                    <input type="text" name="class"><br>
+                </td>
+            </tr>
+            <tr>
+                <td>University:</td>
+                <td><input type="text" name="university"><br></td>
+            </tr>
+            <tr>
+                <td>Hometown:</td>
+                <td><input type="text" name="hometown"><br></td>
+            </tr>
+        </table>
+        Hobby: <div>
+            <input type="checkbox" name='hobby[]' value="Choi TFT">Play TFT <br>
+            <input type="checkbox" name='hobby[]' value="Listen to music">Listen to music <br>
+            <input type="checkbox" name='hobby[]' value="Reading books">Reading books <br>
+            <input type="checkbox" name='hobby[]' value="Wathch TV">Wathch TV <br>
+            <input type="checkbox" name='hobby[]' value="Other">Other <br>
+        </div>
+        <br>
+       <input type="submit" value="Save"> <input type="reset">
+    </form>
+</div>
+</body>
+</html>
