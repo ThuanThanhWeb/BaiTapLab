@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Color</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        function onMouseOverRed() {
+            document.getElementById('text').style.color = "red";
+        }
+
+        function onMouseOverGreen() {
+            document.getElementById('text').style.color = "green";
+        }
+
+        function onMouseOverBlue() {
+            document.getElementById('text').style.color = "blue";
+        }
+
+        function onMouseOut() {
+            document.getElementById('text').style.color = "black";
+        }
+
+        function doLoad() {
+            var a_red = document.getElementById('a_red');
+            a_red.addEventListener('mouseover', onMouseOverRed);
+            a_red.addEventListener('mouseout', onMouseOut);
+
+            var a_green = document.getElementById('a_green');
+            a_green.addEventListener('mouseover', onMouseOverGreen);
+            a_green.addEventListener('mouseout', onMouseOut);
+
+            var a_blue = document.getElementById('a_blue');
+            a_blue.addEventListener('mouseover', onMouseOverBlue);
+            a_blue.addEventListener('mouseout', onMouseOut);
+        }
+
+        window.addEventListener('load', doLoad, false);
+
+    </script>
+
+    <style>
+        a {
+            padding: 20px;
+            text-align: center;
+            width: 200px;
+        }
+
+        div {
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+        }
+
+        #a_red {
+            color: red;
+        }
+
+        #a_green {
+            color: green;
+        }
+
+        #a_blue {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <a href="" id="a_red">RED</a>
+        <br>
+        <a href="" id="a_green">GREEN</a>
+        <br>
+        <a href="" id="a_blue">BLUE</a>
+        <br>
+    </div>
+    <p id="text">Nowadays, connectivity among communication devices in networks has been playing a significant role, especially 
+        when the number of devices is increasing dramatically that
+        requires network service providers to have a better architecture 
+        of management system. One of the popular approach is to divide those devices inside a network into different domains
+    </p>
+</body>
+
+</html>
