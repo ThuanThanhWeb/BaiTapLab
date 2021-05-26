@@ -1,0 +1,169 @@
+.cart-suggestion {
+    flex-direction: row-reverse;
+    cursor: pointer;
+    padding-right: 20px;
+}
+
+.cart-suggestion-txt:hover {
+    color: var(--var-color);
+}
+
+.cart-page-product-header {
+    text-align: center;
+    padding: 0 0;
+    /* margin: 1rem 0; */
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.cart-suggestion-icon {
+    padding: 0 10px;
+    color: var(--var-color);
+}
+
+
+/* cart header */
+
+.cart-page-product-header__product {
+    padding: 0 0;
+    width: 40%;
+}
+
+.cart-page-product-header__qnt {
+    width: 15%;
+}
+
+.cart-page-product-header__cate {
+    width: 15%;
+}
+
+.cart-page-product-header__unit-price {
+    width: 15%;
+}
+
+.cart-page-product-header__action {
+    width: 15%;
+}
+
+
+/*  */
+
+.cart-bundle {
+    margin: 1rem 0;
+    padding: 0 0;
+}
+
+.cart-item {
+    margin: 0 0;
+    padding: 10px 20px;
+}
+
+.cart-item__overview {
+    width: 35%;
+    padding: 0 0;
+}
+
+.cart-item__overview-name {
+    padding: 0 0 0 8px;
+}
+
+.cart-item__variations {
+    width: 15%;
+    padding-left: 20px;
+}
+
+.cart-item__variation-model {
+    color: #222;
+    text-align: center;
+}
+
+.cart-item__price {
+    width: 15%;
+}
+
+.cart-item__price-current {
+    padding: 0 0;
+    margin: 0 0;
+    width: 100%;
+    text-align: center;
+}
+
+.shop__qnt-input {
+    /* padding: 0 8px; */
+    width: 100%;
+}
+
+.shop__qnt-btns {
+    border: 0 0;
+    width: 15%;
+    margin-right: 0;
+    border: 1px rgba(0, 0, 0, 0.09);
+}
+
+.cart-item__actions {
+    width: 15%;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+.cart-item__action-remove {
+    text-align: center;
+    width: 100%;
+}
+
+.cart-item__action-search {
+    margin: 0 0;
+    padding: 0 0;
+    text-align: center;
+}
+
+
+/*  */
+
+.cart-page-footer {
+    margin-top: 0;
+}
+
+.cart-page-footer__actions {
+    padding-left: 30px;
+}
+
+.auth-form__textarea {
+    width: 100%;
+    height: 100px;
+    margin: 8px 0 2px;
+    padding: 0 12px;
+    border: 1px solid #8d8d8d;
+    font-size: 1.2rem;
+    border-radius: 2px;
+    font: 'Roboto', sans-serif;
+}
+
+.auth-form__controls {
+    margin: 20px 0;
+}
+
+
+/* modal */
+
+.modal {
+    display: none;
+}
+
+#add-form {
+    z-index: 1000;
+    display: none;
+}
+
+#edit-form {
+    z-index: 1000;
+    display: none;
+}
+
+.auth-form {
+    max-height: 90vh;
+    overflow-y: scroll;
+}
+.auth-form__heading{
+    color: var(--var-color);
+}

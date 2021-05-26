@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/Logo.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/general-bugs.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/product-cart-list.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/manage-product.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/CSS/manage-product.css</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/CSS/main.css</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Dao/DAO.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/DeleteProductFromCard.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/SignupControl.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/validatorAddProduct.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/product_cart.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Model/Account.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Model/CartProductInfo.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/QR_code.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/login.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/LogoutControl.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/footer.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Helper/DatabaseHelper.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/shop_manager.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/JsonAllCartProduct.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/google_play.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/home.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/AddProductByUser.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/cookie.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/app_store.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/register.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/product_info.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Search.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/manage_product.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/JsonEditProductByUser.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/LoginControl.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/home.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/EditProductByUser.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/JsonAllProduct.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/DetailProduct.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/empty-cart.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/app_store1.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/home.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/shop_libraries.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/JsonCartProductByUser.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/CSS/product_cart.css</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/validator.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/header.jsp</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/info-product.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Images/user.png</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/web/Javascript/cart-info.js</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Control/AddProductToCart.java</file>
+            <file>file:/C:/Users/Hoang%20Anh/Documents/NetBeansProjects/ThuanThanhShop/src/java/Model/Product.java</file>
+        </group>
+    </open-files>
+</project-private>
